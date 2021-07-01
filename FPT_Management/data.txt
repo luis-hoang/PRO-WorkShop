@@ -1,0 +1,4 @@
+SE_Student{code=SE150787, name=Hoang, gpa=8.2 }
+SE_Student{code=SE150387, name=Tuan, gpa=6.4 }
+SE_Student{code=SE150487, name=Huy, gpa=7.3 }
+SE_Student{code=SE150587, name=Toan, gpa=7.7 }
